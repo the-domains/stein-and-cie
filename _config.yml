@@ -1,0 +1,14 @@
+layout_spectrum: 0.4435498977545649
+typography_spectrum: 0.09858808433637023
+color:
+  brandStrength: 0.6462991668377072
+  lightness: 0.5638981936499476
+  saturation: 0.08835751889273524
+  rhythmicContrast: 0.07658476452343166
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: STEIN AND CIE
